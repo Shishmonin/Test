@@ -1,0 +1,45 @@
+<svg width="216" height="189" viewBox="0 0 216 189" fill="none" xmlns="http://www.w3.org/2000/svg">
+<line x1="0.25" y1="5.75" x2="215.75" y2="5.75" stroke="#BDBDBD" stroke-width="0.5" stroke-linecap="round" stroke-dasharray="2 2"/>
+<line x1="0.5" y1="-0.5" x2="146.503" y2="-0.5" transform="matrix(0.00680256 -0.999977 1 0 142 156)" stroke="#2F4D9A" stroke-linecap="round" stroke-dasharray="2 2"/>
+<line x1="0.25" y1="55.75" x2="215.75" y2="55.75" stroke="#BDBDBD" stroke-width="0.5" stroke-linecap="round" stroke-dasharray="2 2"/>
+<line x1="0.25" y1="105.75" x2="215.75" y2="105.75" stroke="#BDBDBD" stroke-width="0.5" stroke-linecap="round" stroke-dasharray="2 2"/>
+<line x1="0.25" y1="155.75" x2="215.75" y2="155.75" stroke="#BDBDBD" stroke-width="0.5" stroke-linecap="round" stroke-dasharray="2 2"/>
+<path d="M13.3193 86.2174C34.0512 88.3913 27.1406 36.6522 49.6002 36.6522C78.5385 36.6522 63.8534 117.522 95.3832 117.522C126.913 117.522 111.364 4.47827 142.03 4.47827C171.4 4.47827 154.987 91.4348 185.221 91.4348C205.521 91.4348 204.226 55.3478 208.977 52.7391" stroke="url(#paint0_linear)" stroke-width="2" stroke-linecap="round"/>
+<path d="M49.6002 37.1739C27.1406 37.1739 34.0513 83.913 13.3193 81.7391V133H208.977V53.2609C204.226 55.8696 205.521 61.9565 185.221 61.9565C154.987 61.9565 171.4 5 142.03 5C111.364 5 126.913 68.0435 95.3832 68.0435C63.8534 68.0435 78.5385 37.1739 49.6002 37.1739Z" fill="url(#paint1_radial)"/>
+<ellipse cx="13.3191" cy="86.2174" rx="4.31915" ry="4.34783" fill="#F2F2F2" stroke="url(#paint2_linear)" stroke-width="2" stroke-linecap="round"/>
+<ellipse cx="207.681" cy="52.3044" rx="4.31915" ry="4.34783" fill="#F2F2F2" stroke="url(#paint3_linear)" stroke-width="2" stroke-linecap="round"/>
+<ellipse cx="142.03" cy="5.34783" rx="4.31915" ry="4.34783" fill="#F2F2F2" stroke="url(#paint4_linear)" stroke-width="2" stroke-linecap="round"/>
+<ellipse cx="50.4637" cy="37.5217" rx="4.31915" ry="4.34783" fill="#F2F2F2" stroke="url(#paint5_linear)" stroke-width="2" stroke-linecap="round"/>
+<ellipse cx="95.3831" cy="117.652" rx="4.31915" ry="4.34783" fill="#F2F2F2" stroke="url(#paint6_linear)" stroke-width="2" stroke-linecap="round"/>
+<defs>
+<linearGradient id="paint0_linear" x1="205.865" y1="117.521" x2="13.3193" y2="117.521" gradientUnits="userSpaceOnUse">
+<stop stop-color="#5673CE"/>
+<stop offset="1" stop-color="#2F4D9A"/>
+</linearGradient>
+<radialGradient id="paint1_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(81 -26.5) rotate(84.1539) scale(147.266 391.19)">
+<stop stop-color="#8BA9F6"/>
+<stop offset="0.755755" stop-color="#467AFF" stop-opacity="0.04"/>
+<stop offset="1" stop-color="#3F75FF" stop-opacity="0"/>
+</radialGradient>
+<linearGradient id="paint2_linear" x1="17.6538" y1="90.5652" x2="9" y2="90.5652" gradientUnits="userSpaceOnUse">
+<stop stop-color="#5673CE"/>
+<stop offset="1" stop-color="#2F4D9A"/>
+</linearGradient>
+<linearGradient id="paint3_linear" x1="212.016" y1="56.6522" x2="203.362" y2="56.6522" gradientUnits="userSpaceOnUse">
+<stop stop-color="#5673CE"/>
+<stop offset="1" stop-color="#2F4D9A"/>
+</linearGradient>
+<linearGradient id="paint4_linear" x1="146.365" y1="9.69563" x2="137.711" y2="9.69563" gradientUnits="userSpaceOnUse">
+<stop stop-color="#5673CE"/>
+<stop offset="1" stop-color="#2F4D9A"/>
+</linearGradient>
+<linearGradient id="paint5_linear" x1="54.7983" y1="41.8695" x2="46.1445" y2="41.8695" gradientUnits="userSpaceOnUse">
+<stop stop-color="#5673CE"/>
+<stop offset="1" stop-color="#2F4D9A"/>
+</linearGradient>
+<linearGradient id="paint6_linear" x1="99.7177" y1="122" x2="91.064" y2="122" gradientUnits="userSpaceOnUse">
+<stop stop-color="#5673CE"/>
+<stop offset="1" stop-color="#2F4D9A"/>
+</linearGradient>
+</defs>
+</svg>
